@@ -23,6 +23,9 @@ Java: Linguagem de programação utilizada durante o projeto.
 Gson: Biblioteca para converter objeto Java em JSON.
 Exchange Rate API: Oferece uma API, com taxas de câmbio em tempo real, confira em Exchange Rate API.
 
-
 # Desenvolvedor
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102492328?v=4?s=400" width=115><br><sub>Nailton Vieira</sub>](https://github.com/nailton-vieira)
+
+# Agradecimentos
+A alura pela oportunidade de estudar JAVA essa linguagem poderosa e flexivel.
+
